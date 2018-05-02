@@ -2,3 +2,6 @@ This The rainbow and the unicorn!
 Red
 Black
 Green
+yellow
+purple
+green
